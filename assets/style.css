@@ -1,0 +1,35 @@
+#awal{
+    background-image: url('images/wisata.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    height: 450px;
+    padding-bottom: 44%;
+    text-shadow: 100px;
+    position: relative;
+}
+body{
+    background-color: #C7FFED;
+}
+.about{
+    background-image: url("/img/corporate-incentives.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+    text-shadow: 100px;
+}
+.about p{
+    color: white;
+    font-size:x-large;
+    text-align: justify;
+}
+.about h2{
+    color: rgb(36, 36, 36);
+}
+.bg{
+    background-image: url("img/logiin.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    height: 450px;
+    padding-bottom: 48%;
+    text-shadow: 100px;
+}
